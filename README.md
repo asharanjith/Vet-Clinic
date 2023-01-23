@@ -14,7 +14,6 @@
 - [❓ FAQ](#faq)
 - [📝 License](#license)
 
-
 # 📖 [VET CLINIC] <a name="about-project"></a>
 
 **In this project a relational database is created to store the data  for a vet clinic.
@@ -47,12 +46,12 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Asha S Vijayan**
 
 - GitHub: [@asharanjith](https://github.com/asharanjith)
 - Twitter: [@asha_cep](https://twitter.com/asha_cep)
 - LinkedIn: [asha-vijayan](https://www.linkedin.com/in/ashavijayan)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
