@@ -5,7 +5,6 @@
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack) 
-  - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
   - [Install](#install)
 - [👥 Authors](#authors)
@@ -14,7 +13,6 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [❓ FAQ](#faq)
 - [📝 License](#license)
-
 
 # 📖 [VET CLINIC] <a name="about-project"></a>
 
@@ -33,13 +31,6 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](https://yourdeployedapplicationlink.com)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
@@ -55,12 +46,12 @@ Clone this repository to your desired folder:
 
 ## 👥 Authors <a name="authors"></a>
 
-
 👤 **Asha S Vijayan**
 
 - GitHub: [@asharanjith](https://github.com/asharanjith)
 - Twitter: [@asha_cep](https://twitter.com/asha_cep)
-- LinkedIn: [asha-vijayan](www.linkedin.com/in/ashavijayan))
+- LinkedIn: [asha-vijayan](https://www.linkedin.com/in/ashavijayan)
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
