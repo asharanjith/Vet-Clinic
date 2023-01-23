@@ -31,3 +31,4 @@ SELECT * FROM animals WHERE neutered = 't';
 /*Find all animals with a weight between 10.4kg and 17.3kg*/
 
 SELECT * FROM animals WHERE weight_kg BETWEEN 10.4 AND 17.3;
+
