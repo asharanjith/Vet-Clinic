@@ -52,7 +52,7 @@ Clone this repository to your desired folder:
 
 - GitHub: [@asharanjith](https://github.com/asharanjith)
 - Twitter: [@asha_cep](https://twitter.com/asha_cep)
-- LinkedIn: [asha-vijayan](www.linkedin.com/in/ashavijayan))
+- LinkedIn: [asha-vijayan](https://www.linkedin.com/in/ashavijayan)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
