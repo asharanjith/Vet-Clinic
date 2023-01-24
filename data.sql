@@ -9,8 +9,7 @@ INSERT INTO animals (name, date_of_birth, escape_attempts, neutered, weight_kg) 
 
 /* Add more data to database */
 
-INSERT INTO animals (name, date_of_birth, escape_attempts, neutered, weight_kg) VALUES 
-        ('Devimon', '2017-05-12', 5, 'TRUE', 11), 
+INSERT INTO animals (name, date_of_birth, escape_attempts, neutered, weight_kg) VALUES        
         ('Charmander', '2022-02-08', 0, 'FALSE', -11),
         ('Plantmon', '2021-11-15', 2, 'TRUE', -5.7), 
         ('Squirtle', '1993-04-02', 3, 'FALSE', -12.13), 
