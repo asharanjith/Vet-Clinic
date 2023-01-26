@@ -44,3 +44,12 @@ CREATE TABLE animals (
  
   ALTER TABLE animals ADD COLUMN owners_ID INT;
   ALTER TABLE animals ADD FOREIGN KEY (owners_ID) REFERENCES owners(id);
+  
+  /*Create vets table*/
+  
+  CREATE TABLE vets (
+      id INT GENERATED ALWAYS AS IDENTITY, 
+      name CHAR(75), age INT, 
+      date_of_graduation DATE, 
+      PRIMARY KEY(id)
+  );
