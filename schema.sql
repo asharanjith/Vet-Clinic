@@ -70,3 +70,16 @@ CREATE TABLE animals (
         date_of_visits DATE, 
         PRIMARY KEY(animals_id, vets_id, date_of_visits)
     );
+    
+    --Remove primary key to add data
+    ALTER TABLE visits DROP CONSTRAINT visits_pkey;
+    
+    -- Add an email column to your owners table
+ALTER TABLE owners ADD COLUMN email VARCHAR(120);
+
+ --Add index to owners table
+ CREATE INDEX email_index on owners (email);
+ 
+ --Add index on visits table
+CREATE index index_animal on visits(animals_id);
+CREATE index index_vet on visits(vets_id);
