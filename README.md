@@ -31,6 +31,11 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Schema 
+
+![vet clinic erd](https://user-images.githubusercontent.com/108219288/215775213-2fee82e6-b602-42de-b7c0-80333b4ddff9.png)
+
+
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps.
